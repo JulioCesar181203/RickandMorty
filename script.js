@@ -35,6 +35,7 @@ acertou = () => {
     cont++;
     contador.innerHTML = cont;
     setTimeout(pesquisarPersonagem, 1000);
+    
 }
 
 errou = () => {
